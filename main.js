@@ -11,7 +11,7 @@ app.get("/api/redis_info",(req,res)=>{
     });
 });
 
-//Server info from redis
+//Server Information from the redis
 
 app.get("/api/redis_monitor",(req,res)=>{
  //  var md5U = req.query.md5;
