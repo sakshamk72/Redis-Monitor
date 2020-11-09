@@ -6,7 +6,7 @@ A web visualization redis monitoring program. Performance optimized and very eas
 
 This redis monitor uses a number of open source projects to work.
 
--Node.js - backend
--Express -Network app framework
--sqlite -database
--Sequelize -ORM
+-Node.js - backend .
+-Express -Network app framework .
+-sqlite -database .
+-Sequelize -ORM .
